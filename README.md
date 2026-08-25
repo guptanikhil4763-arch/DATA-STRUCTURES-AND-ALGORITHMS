@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 3 | 3 | 0 | 0 | - |
-| GeeksforGeeks | 2 | 0 | 1 | 0 | 1 |
-| **Total** | **5** | **3** | **1** | **0** | **1** |
+| GeeksforGeeks | 3 | 0 | 1 | 0 | 2 |
+| **Total** | **6** | **3** | **1** | **0** | **2** |
 
 ## Solved Problems
 
@@ -19,5 +19,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 2 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/771_JewelsAndStones.py) |
 | 3 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/771_JewelsAndStones.java) |
 | 4 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.java) |
-| 5 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
+| 5 | [GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfTwoNumbers.java) |
+| 6 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
 <!-- COMMITDSA_END -->
