@@ -7,14 +7,15 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 0 | 0 | 0 | 0 | - |
+| LeetCode | 1 | 1 | 0 | 0 | - |
 | GeeksforGeeks | 2 | 0 | 1 | 0 | 1 |
-| **Total** | **2** | **0** | **1** | **0** | **1** |
+| **Total** | **3** | **1** | **1** | **0** | **1** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.java) |
-| 2 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
+| 1 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/771_JewelsAndStones.py) |
+| 2 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.java) |
+| 3 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
 <!-- COMMITDSA_END -->
