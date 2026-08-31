@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 4 | 1 | 0 | - |
-| GeeksforGeeks | 10 | 2 | 2 | 0 | 6 |
-| **Total** | **15** | **6** | **3** | **0** | **6** |
+| GeeksforGeeks | 11 | 2 | 2 | 0 | 7 |
+| **Total** | **16** | **6** | **3** | **0** | **7** |
 
 ## Solved Problems
 
@@ -30,4 +30,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 13 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
 | 14 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
 | 15 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
+| 16 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
 <!-- COMMITDSA_END -->
