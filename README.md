@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 4 | 1 | 0 | - |
-| GeeksforGeeks | 8 | 2 | 2 | 0 | 4 |
-| **Total** | **13** | **6** | **3** | **0** | **4** |
+| GeeksforGeeks | 9 | 2 | 2 | 0 | 5 |
+| **Total** | **14** | **6** | **3** | **0** | **5** |
 
 ## Solved Problems
 
@@ -28,4 +28,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 11 | [Make Anagram with Removals](https://practice.geeksforgeeks.org/problems/anagram-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeAnagramWithRemovals.java) |
 | 12 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
 | 13 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
+| 14 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
 <!-- COMMITDSA_END -->
