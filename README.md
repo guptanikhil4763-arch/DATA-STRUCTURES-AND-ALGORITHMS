@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 4 | 3 | 1 | 0 | - |
-| GeeksforGeeks | 7 | 2 | 2 | 0 | 3 |
-| **Total** | **11** | **5** | **3** | **0** | **3** |
+| GeeksforGeeks | 8 | 2 | 2 | 0 | 4 |
+| **Total** | **12** | **5** | **3** | **0** | **4** |
 
 ## Solved Problems
 
@@ -25,5 +25,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 8 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.java) |
 | 9 | [GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfTwoNumbers.java) |
 | 10 | [Make Anagram with Removals](https://practice.geeksforgeeks.org/problems/anagram-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeAnagramWithRemovals.java) |
-| 11 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
+| 11 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
+| 12 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
 <!-- COMMITDSA_END -->
