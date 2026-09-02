@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 4 | 1 | 0 | - |
-| GeeksforGeeks | 16 | 2 | 2 | 0 | 12 |
-| **Total** | **21** | **6** | **3** | **0** | **12** |
+| GeeksforGeeks | 17 | 2 | 2 | 0 | 13 |
+| **Total** | **22** | **6** | **3** | **0** | **13** |
 
 ## Solved Problems
 
@@ -27,13 +27,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 10 | [Alternate Merge Two Strings](https://practice.geeksforgeeks.org/problems/merge-two-strings2736/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternateMergeTwoStrings.java) |
 | 11 | [Capitalize First Letter of Words](https://practice.geeksforgeeks.org/problems/upper-case-conversion5419/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CapitalizeFirstLetterOfWords.java) |
 | 12 | [Check String](https://practice.geeksforgeeks.org/problems/check-string1818/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckString.java) |
-| 13 | [Delete alternate characters](https://practice.geeksforgeeks.org/problems/java-delete-alternate-characters4036/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DeleteAlternateCharacters.java) |
-| 14 | [First Letter of Every Word](https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FirstLetterOfEveryWord.java) |
-| 15 | [GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfTwoNumbers.java) |
-| 16 | [Make Anagram with Removals](https://practice.geeksforgeeks.org/problems/anagram-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeAnagramWithRemovals.java) |
-| 17 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
-| 18 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
-| 19 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
-| 20 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
-| 21 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
+| 13 | [Concatenate and Reverse](https://practice.geeksforgeeks.org/problems/java-strings-set-15112/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ConcatenateAndReverse.java) |
+| 14 | [Delete alternate characters](https://practice.geeksforgeeks.org/problems/java-delete-alternate-characters4036/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DeleteAlternateCharacters.java) |
+| 15 | [First Letter of Every Word](https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FirstLetterOfEveryWord.java) |
+| 16 | [GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfTwoNumbers.java) |
+| 17 | [Make Anagram with Removals](https://practice.geeksforgeeks.org/problems/anagram-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeAnagramWithRemovals.java) |
+| 18 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
+| 19 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
+| 20 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
+| 21 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
+| 22 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
 <!-- COMMITDSA_END -->
