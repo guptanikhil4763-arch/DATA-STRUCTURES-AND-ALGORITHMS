@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 4 | 1 | 0 | - |
-| GeeksforGeeks | 23 | 3 | 2 | 0 | 18 |
-| **Total** | **28** | **7** | **3** | **0** | **18** |
+| GeeksforGeeks | 24 | 3 | 2 | 0 | 19 |
+| **Total** | **29** | **7** | **3** | **0** | **19** |
 
 ## Solved Problems
 
@@ -40,7 +40,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 23 | [Make Anagram with Removals](https://practice.geeksforgeeks.org/problems/anagram-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeAnagramWithRemovals.java) |
 | 24 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
 | 25 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
-| 26 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
-| 27 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
-| 28 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
+| 26 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_RedORGreen.py) |
+| 27 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
+| 28 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
+| 29 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
 <!-- COMMITDSA_END -->
