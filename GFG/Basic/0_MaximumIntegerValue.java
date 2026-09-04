@@ -10,12 +10,7 @@ class Solution {
      int ans = 0;
      for(int i = 0;i<s.length();i++){
          int a = s.charAt(i)-'0';
-         if(a<=1 || ans<=1){
-             ans = ans+a;
-         }
-         else{
-             ans = ans*a;
-         }
+         ans=Math.max(ans*a,ans+a);
      }
      return ans;
       
