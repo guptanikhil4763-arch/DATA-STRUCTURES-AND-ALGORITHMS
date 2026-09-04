@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 4 | 1 | 0 | - |
-| GeeksforGeeks | 27 | 3 | 2 | 0 | 22 |
-| **Total** | **32** | **7** | **3** | **0** | **22** |
+| GeeksforGeeks | 28 | 3 | 2 | 0 | 23 |
+| **Total** | **33** | **7** | **3** | **0** | **23** |
 
 ## Solved Problems
 
@@ -39,12 +39,13 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 22 | [GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfTwoNumbers.java) |
 | 23 | [Lower case to upper case](https://practice.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LowerCaseToUpperCase.java) |
 | 24 | [Make Anagram with Removals](https://practice.geeksforgeeks.org/problems/anagram-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeAnagramWithRemovals.java) |
-| 25 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
-| 26 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
-| 27 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_RedORGreen.py) |
-| 28 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RedORGreen.java) |
-| 29 | [Remove All Except Alphabets](https://practice.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveAllExceptAlphabets.java) |
-| 30 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
-| 31 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
-| 32 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
+| 25 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumIntegerValue.java) |
+| 26 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
+| 27 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
+| 28 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_RedORGreen.py) |
+| 29 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RedORGreen.java) |
+| 30 | [Remove All Except Alphabets](https://practice.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveAllExceptAlphabets.java) |
+| 31 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
+| 32 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
+| 33 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
 <!-- COMMITDSA_END -->
