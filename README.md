@@ -8,8 +8,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 5 | 4 | 1 | 0 | - |
-| GeeksforGeeks | 28 | 3 | 2 | 0 | 23 |
-| **Total** | **33** | **7** | **3** | **0** | **23** |
+| GeeksforGeeks | 29 | 4 | 2 | 0 | 23 |
+| **Total** | **34** | **8** | **3** | **0** | **23** |
 
 ## Solved Problems
 
@@ -21,31 +21,32 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | LeetCode | Easy | JAVA | [Code](./LeetCode/Easy/771_JewelsAndStones.java) |
 | 5 | [55. Jump Game](https://leetcode.com/problems/jump-game/) | LeetCode | Medium | JAVA | [Code](./LeetCode/Medium/55_JumpGame.java) |
 | 6 | [Count Words in a String](https://practice.geeksforgeeks.org/problems/count-number-of-words1500/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_CountWordsInAString.java) |
-| 7 | [String Duplicates Removal](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_StringDuplicatesRemoval.py) |
-| 8 | [String Duplicates Removal](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_StringDuplicatesRemoval.java) |
-| 9 | [Jump Game](https://practice.geeksforgeeks.org/problems/jump-game/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JumpGame.java) |
-| 10 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.java) |
-| 11 | [Alternate Merge Two Strings](https://practice.geeksforgeeks.org/problems/merge-two-strings2736/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternateMergeTwoStrings.java) |
-| 12 | [C++ Strings](https://practice.geeksforgeeks.org/problems/c-strings4609/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CStrings.java) |
-| 13 | [Capitalize First Letter of Words](https://practice.geeksforgeeks.org/problems/upper-case-conversion5419/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CapitalizeFirstLetterOfWords.java) |
-| 14 | [Check String](https://practice.geeksforgeeks.org/problems/check-string1818/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckString.java) |
-| 15 | [Concatenate a List of Characters](https://practice.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ConcatenateAListOfCharacters.java) |
-| 16 | [Concatenate and Reverse](https://practice.geeksforgeeks.org/problems/java-strings-set-15112/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ConcatenateAndReverse.java) |
-| 17 | [Count of camel case characters](https://practice.geeksforgeeks.org/problems/find-the-camel3348/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CountOfCamelCaseCharacters.java) |
-| 18 | [Count Types of Characters](https://practice.geeksforgeeks.org/problems/count-type-of-characters3635/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CountTypesOfCharacters.java) |
-| 19 | [Delete alternate characters](https://practice.geeksforgeeks.org/problems/java-delete-alternate-characters4036/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DeleteAlternateCharacters.java) |
-| 20 | [First Letter of Every Word](https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FirstLetterOfEveryWord.java) |
-| 21 | [Front-Back Transformation of String](https://practice.geeksforgeeks.org/problems/front-back-transformation1659/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FrontBackTransformationOfString.java) |
-| 22 | [GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfTwoNumbers.java) |
-| 23 | [Lower case to upper case](https://practice.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LowerCaseToUpperCase.java) |
-| 24 | [Make Anagram with Removals](https://practice.geeksforgeeks.org/problems/anagram-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeAnagramWithRemovals.java) |
-| 25 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumIntegerValue.java) |
-| 26 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
-| 27 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
-| 28 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_RedORGreen.py) |
-| 29 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RedORGreen.java) |
-| 30 | [Remove All Except Alphabets](https://practice.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveAllExceptAlphabets.java) |
-| 31 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
-| 32 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
-| 33 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
+| 7 | [Longest Common Prefix of Strings](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_LongestCommonPrefixOfStrings.java) |
+| 8 | [String Duplicates Removal](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_StringDuplicatesRemoval.py) |
+| 9 | [String Duplicates Removal](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | GeeksforGeeks | Easy | JAVA | [Code](./GFG/Easy/0_StringDuplicatesRemoval.java) |
+| 10 | [Jump Game](https://practice.geeksforgeeks.org/problems/jump-game/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_JumpGame.java) |
+| 11 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | JAVA | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.java) |
+| 12 | [Alternate Merge Two Strings](https://practice.geeksforgeeks.org/problems/merge-two-strings2736/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_AlternateMergeTwoStrings.java) |
+| 13 | [C++ Strings](https://practice.geeksforgeeks.org/problems/c-strings4609/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CStrings.java) |
+| 14 | [Capitalize First Letter of Words](https://practice.geeksforgeeks.org/problems/upper-case-conversion5419/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CapitalizeFirstLetterOfWords.java) |
+| 15 | [Check String](https://practice.geeksforgeeks.org/problems/check-string1818/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CheckString.java) |
+| 16 | [Concatenate a List of Characters](https://practice.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ConcatenateAListOfCharacters.java) |
+| 17 | [Concatenate and Reverse](https://practice.geeksforgeeks.org/problems/java-strings-set-15112/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ConcatenateAndReverse.java) |
+| 18 | [Count of camel case characters](https://practice.geeksforgeeks.org/problems/find-the-camel3348/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CountOfCamelCaseCharacters.java) |
+| 19 | [Count Types of Characters](https://practice.geeksforgeeks.org/problems/count-type-of-characters3635/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_CountTypesOfCharacters.java) |
+| 20 | [Delete alternate characters](https://practice.geeksforgeeks.org/problems/java-delete-alternate-characters4036/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_DeleteAlternateCharacters.java) |
+| 21 | [First Letter of Every Word](https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FirstLetterOfEveryWord.java) |
+| 22 | [Front-Back Transformation of String](https://practice.geeksforgeeks.org/problems/front-back-transformation1659/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_FrontBackTransformationOfString.java) |
+| 23 | [GCD of two numbers](https://practice.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_GCDOfTwoNumbers.java) |
+| 24 | [Lower case to upper case](https://practice.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_LowerCaseToUpperCase.java) |
+| 25 | [Make Anagram with Removals](https://practice.geeksforgeeks.org/problems/anagram-of-string/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MakeAnagramWithRemovals.java) |
+| 26 | [Maximum Integer Value](https://practice.geeksforgeeks.org/problems/maximum-integer-value1434/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumIntegerValue.java) |
+| 27 | [Maximum Number in a String](https://practice.geeksforgeeks.org/problems/extract-maximum2943/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_MaximumNumberInAString.java) |
+| 28 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_PowerUsingRecursion.java) |
+| 29 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_RedORGreen.py) |
+| 30 | [Red OR Green](https://practice.geeksforgeeks.org/problems/red-or-green5711/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RedORGreen.java) |
+| 31 | [Remove All Except Alphabets](https://practice.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveAllExceptAlphabets.java) |
+| 32 | [Remove character](https://practice.geeksforgeeks.org/problems/remove-character3815/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveCharacter.java) |
+| 33 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_RemoveVowels.java) |
+| 34 | [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1) | GeeksforGeeks | Basic | JAVA | [Code](./GFG/Basic/0_ReverseVowels.java) |
 <!-- COMMITDSA_END -->
